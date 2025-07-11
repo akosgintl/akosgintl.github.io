@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: false
-title: "My first post"
+title: "My first post about Lorem ipsum"
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ac suscipit tellus, nec eleifend libero. Pellentesque pulvinar neque et ligula pretium facilisis."
 date:   2025-07-11 07:00:00
 mathjax: false
