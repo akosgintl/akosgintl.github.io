@@ -2,7 +2,7 @@
 layout: post
 comments: false
 title: "My first post"
-excerpt: "This is the first"
+excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ac suscipit tellus, nec eleifend libero. Pellentesque pulvinar neque et ligula pretium facilisis."
 date:   2025-07-11 07:00:00
 mathjax: false
 ---
@@ -17,8 +17,6 @@ mathjax: false
     font-size: 13px; /* make code smaller for this post... */
 }
 </style>
-
-# Lorem ipsum
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ac suscipit tellus, nec eleifend libero. Pellentesque pulvinar neque et ligula pretium facilisis. Donec in venenatis leo, ac ullamcorper neque. Donec a cursus orci. Donec id dui quis lacus varius rhoncus rutrum vitae erat. Phasellus ut ornare diam. Quisque eu pulvinar dui. Donec ornare neque dui, a pulvinar dolor semper quis. Ut libero lorem, sollicitudin eget finibus et, vulputate eu lacus. In commodo dignissim lorem condimentum rhoncus. Vivamus vestibulum condimentum turpis, sit amet tempor leo posuere quis.
 
